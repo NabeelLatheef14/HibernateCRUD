@@ -4,8 +4,11 @@ This project shows a simple CRUD (Create, Read, Update, Delete) operations using
 Note: This is not a perfect project. This is a simple a simple project with basic CRUD operations.
 
 **C** - CREATE
+<br/>
 **R** - READ
+<br/>
 **U** - UPDATE
+<br/>
 **D** - DELETE
 
 ## Requirements
@@ -21,4 +24,4 @@ If you are new to this or don't know this, please check the video: https://youtu
 Download MySQL Server and MySQL Workbench. Guide: https://youtu.be/hiS_mWZmmI0?si=_4RtF1mZyLjciCC1
 
 ## License
-Created as part of Learning purpose.
+Created as part of Learning purpose by Nabeel Latheef
