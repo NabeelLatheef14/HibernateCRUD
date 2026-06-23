@@ -1,6 +1,13 @@
 # HibernateCRUD
 This project shows a simple CRUD (Create, Read, Update, Delete) operations using Hibernate in a Java Maven project. 
 
+Note: This is not a perfect project. This is a simple a simple project with basic CRUD operations.
+
+**C** - CREATE
+**R** - READ
+**U** - UPDATE
+**D** - DELETE
+
 ## Requirements
 1. Java
 2. Intellij IDE or Eclipse
